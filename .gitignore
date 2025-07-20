@@ -26,6 +26,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 *.yml
+*.p12
+*.pem
+*.key
 
 ### NetBeans ###
 /nbproject/private/
