@@ -40,4 +40,8 @@ public class SlackService {
             log.error(e.getMessage());
         }
     }
+
+    public void receiveSlackMessage() {
+
+    }
 }
